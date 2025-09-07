@@ -1,4 +1,5 @@
- • 1-savol: Machine learning xayotimizda qayerlarda uchrashi mumkin (PPT da aytilgan va aytilmagan
+1-1 bolim
+• 1-savol: Machine learning xayotimizda qayerlarda uchrashi mumkin (PPT da aytilgan va aytilmagan
  misollarni yozing)? 
 asosan suniy intellektda qollaniladigan joylarda ishlatamiz yani insonni miyyasi orqali emas mashina miyyasi orqali bajariladigan ishlarda avtoturargoh shlagbaumlarini kotarib tushurish
  yoki poezd va metrolarni kirish eshiklari oldida korishimiz mumkin
@@ -14,3 +15,48 @@ mashinani datalar orqali o'rgatadigan fan
  Frenk Rozenblatt
  Inson miyasi faoliyatini taqlid qiladigan dastlabki neyron tarmoq dasturini
  ishlab chiqdi. mana shu qiziq boldi 
+
+
+
+
+1-2 bolim
+ • 1-savol: Nima uchun Machine learningni o’rganishimiz uchun dastlab Human learningni bilishimiz
+ kerak? 
+hayotimizda keng qo'llashimiz uchun kerak human learning o;rgatganidek oson o'rganishimiz uchu bilishimiz kerak 
+
+ • 2-savol: O’rganish turlaridan qaysi biri eng muhim va nima uchun? 
+ustoz orqali o'rganish muhim vaqt kam sarf boladi va tushunarli va to'liq  o'rganamiz 
+
+
+
+1-3 bolim
+ • 1-savol: Mlni deganda shu kungacha nimani tushunar edingiz? 
+AI yani suniy intellektni mashine learning deb tushunar edim
+ 
+• 2-savol: Ml deganda endi nimani tushunasiz? 
+malumotlar orqali kompyuterni o'rgatishni tushunaman 
+
+ • 3-savol: Jadvaldagi bosqichlardan sizningcha eng muhimi qaysi? 
+hammasi juda muhim deb bilaman 
+
+• 4-savol: O’rganilgan tajriba keyingi muammoga tadbiq qilingandagi asosiy xususiyat nima bo’lishi
+ kerak? 
+Tayyor model amaliyotga joriy qilinadi va natijalar
+ kuzatib boriladi.
+ Ushbu bosqichda modelning
+ haqiqiy vaziyatlardagi samaradorligi baholanadi. 
+
+1-4 bolim
+ • 1-savol: Mavzuda o’tilgan imtixonga tayyorgarlik misolida aytilganidek o’rganilayotgan malumotlar
+ ko’payganda asosiy kerakli narsa nima? 
+ **Ma’lumotlar:** O’quvchining
+ olingan bilimlari (o’qish, tajribalar,
+ kuzatish)
+
+ • 2-savol: Malumotlarni ishlatishdan oldin qilinadigan ishlar nima va nima uchun u bosqichlarni
+ amalga oshirishimiz kerak?
+malumotlarni yigish tahil qilish toldirish  man shular orqali ml =amalga oshiriladi
+
+ • 3-savol: Butun mavzu bo’yicha olingan xulosalaringizni tushuntirib bering. 
+men o'rgangan narsalarim shu boldiku AI ni boshqacha tasavvur qilkgan edim men o'ylagandanda murakkab ekan va bularni hammasini o'z bolimlari bor ekan va ularni
+ketma ketlikda va togri ustoz orqali o'rganish kerak ekanligini tushunib yetdim
