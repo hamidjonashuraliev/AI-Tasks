@@ -21,3 +21,16 @@ cobalt                 2015                         60 000 km                 20
  • 2-savol: 1- savolda tuzilgan 2 ta misol uchun muammoni yechishdan maqsadni yozing 
 1-mashina narxini aniqlash 
 2- talabani o'qishini baholash 
+
+
+2-2 bolim 
+• 1-savol: Supervised Ml ga oid 2 ta misol toping va o’zingiz misollardan berilganidek jadval
+ to’ldiring 
+1- kasallikni tashxis qilish 
+2- ovoz orqali shaxsni aniqlash 
+
+
+• 2-savol: Unsupervised Ml ga oid 2 ta misol toping va o’zingiz misollardan berilganidek jadval
+ to’ldiring
+1- mijozlarni guruhlash 
+2- yangi qoshiq tavsiya qilsih 
